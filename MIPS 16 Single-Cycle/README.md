@@ -1,4 +1,4 @@
-# MIPS16 Single-Cycle Processor
+# MIPS 16 Single-Cycle
 
 A custom implementation of a 16-bit MIPS processor based on a **single-cycle datapath architecture**. Each instruction is fetched, decoded, executed, accesses memory (if required), and writes back results within a single clock cycle.
 
